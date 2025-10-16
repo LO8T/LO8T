@@ -1,45 +1,20 @@
 # Ali (LO8T) ⚡️
 
-Mechanical Engineer | Solid Mechanics
+Mechanical engineering MSc student | FEA & vibration rookie + applied mechanics adventurer
 
-## About Me
-Hello, I'm Ali—a mechanical engineer who enjoys technical challenges, occasional desk-smashing frustration 🤦‍♂️, and creative projects. My interests include numerical modeling, vibration analysis, and building anything cool 🛠️.
+<!-- Skill/Tool Figure -->
+<p align="left">
+  <svg width="540" height="120" xmlns="http://www.w3.org/2000/svg">
+    <g font-family="Verdana" font-size="16">
+      <text x="10" y="30">📊 MATLAB</text>
+      <text x="120" y="30">🐍 Python</text>
+      <text x="220" y="30">🧩 Abaqus</text>
+      <text x="340" y="30">🛠️ Inventor</text>
+      <text x="460" y="30">📄 LaTeX</text>
+    </g>
+  </svg>
+</p>
 
-## Skills & Tools 🚀
+My code runs smoother when Real Madrid wins—and if you think your code is messier, prove it!
 
-Here is a breakdown of my core competencies and the software I use to apply them.
-
-**Engineering & Analysis**
-* Finite Element Analysis (FEA)
-* Vibration Analysis
-* Mechanics of Composite Materials
-* Structural Health Monitoring (SHM)
-
-**Software & Tools**
-* **MATLAB:** Good working knowledge
-* **Abaqus:** Experience with FEA simulations
-* **Autodesk Inventor:** Intermediate in 3D design
-
----
-
-## Current Project 📚
-**Master’s Thesis:**  
-Structural health monitoring using vibration analysis.  
-I am developing robust, geometry-independent, data-driven methods for defect detection in composite structures as part of my graduate research.  
-Goal: Improve reliability and cost-effectiveness in maintaining mechanical structures.
-
-## What I'm Learning 🤓
-
-* **Python:** For engineering computation and data analysis
-* **LaTeX:** For improving my technical documentation and report writing
-
----
-
-## Contact 📬
-- Email: [ali.r.amini001@gmail.com](mailto:ali.r.amini001@gmail.com)
-
-> If you understand exactly what's going on here, please explain it to me. Entry password: #HalaMadrid ⚽️👑 .
-
----
-
-Not a fan of formalities. Always open to learning, collaboration, and sometimes a bit of technical banter. 😄
+📫 ali.r.amini001@gmail.com
