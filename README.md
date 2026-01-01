@@ -1,6 +1,6 @@
 # Ali (LO8T) ⚡️
 
-Mechanical engineering MSc student | FEA & vibration rookie + applied mechanics adventurer
+Mechanical engineering MSc student | FEA & vibration beginner + applied mechanics 
 
 <!-- Skill/Tool Figure -->
 <p align="left">
