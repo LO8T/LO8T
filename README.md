@@ -15,6 +15,6 @@ Mechanical engineering MSc student | SHM + applied mechanics
   </svg>
 </p>
 
-My code runs smoother when Real Madrid wins—and if you think your code is messier, prove it!
+¡Hala Madrid!
 
 📫 ali.r.amini001@gmail.com
