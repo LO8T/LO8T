@@ -1,4 +1,4 @@
-# Ali (LO8T) ⚡️
+# Ali ⚡️
 
 Mechanical engineering MSc student | SHM + applied mechanics 
 
