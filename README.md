@@ -1,4 +1,4 @@
-# Ali ⚡️
+# Ali Amini
 
 Mechanical engineering MSc student | SHM + applied mechanics 
 
